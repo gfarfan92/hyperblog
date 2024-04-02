@@ -1,0 +1,13 @@
+body
+{
+    font-size: 20 px
+    ;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+#container 
+{
+background-color: pink;
+margin: 0 auto;
+padding: auto;
+}
