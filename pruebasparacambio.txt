@@ -1,3 +1,8 @@
 
-hola , este es el primer cambio, archivo original desde linux, cambio 1 desde window segundo cambio para comparacion con gafarfan92
+hola , este es el primer cambio, archivo original desde linux, 
+
+
+master 1
+cambio 1 desde window segundo cambio para comparacion con gafarfan92
+
 
